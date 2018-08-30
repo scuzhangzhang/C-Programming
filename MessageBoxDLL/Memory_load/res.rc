@@ -1,0 +1,2 @@
+#include "resource.h"
+ID_MESSAGE_DLL RC_DLL MessageBoxDLL.dll

@@ -1,0 +1,2 @@
+EXPORTS
+	DllRegisterServer           = Message
