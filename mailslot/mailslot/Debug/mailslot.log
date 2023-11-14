@@ -1,4 +1,0 @@
-﻿  mailslot.cpp
-f:\c\mailslot\mailslot\mailslot.cpp(51): warning C4715: “ReadMail”: 不是所有的控件路径都返回值
-  mailslot.vcxproj -> F:\c\mailslot\Debug\mailslot.exe
-  mailslot.vcxproj -> F:\c\mailslot\Debug\mailslot.pdb (Full PDB)

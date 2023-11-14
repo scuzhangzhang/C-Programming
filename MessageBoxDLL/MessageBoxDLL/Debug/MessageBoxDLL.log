@@ -1,4 +1,0 @@
-﻿export.def : warning LNK4104: 导出符号“DllRegisterServer”应为 PRIVATE
-    正在创建库 F:\c\MessageBoxDLL\Debug\MessageBoxDLL.lib 和对象 F:\c\MessageBoxDLL\Debug\MessageBoxDLL.exp
-  MessageBoxDLL.vcxproj -> F:\c\MessageBoxDLL\Debug\MessageBoxDLL.dll
-  MessageBoxDLL.vcxproj -> F:\c\MessageBoxDLL\Debug\MessageBoxDLL.pdb (Full PDB)
